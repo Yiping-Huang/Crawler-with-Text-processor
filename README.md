@@ -1,0 +1,2 @@
+# Crawler-with-Text-processor
+This project is a Coursera Assignment which is adapted from the original code provided by Professor Charles Severance. The aim of this project is to crawl data from a web page provided by the professor and make some calculations on the data acquired. This project crawls a web page (http://py4e-data.dr-chuck.net/comments_1209104.html). It uses python's re module to analyze the text in order to get the numbers in the column named "comment". Then it calculates the sum of these numbers and prints it. 
